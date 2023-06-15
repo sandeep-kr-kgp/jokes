@@ -1,0 +1,7 @@
+@media only screen and (max-width: 600px) {
+    #joke {
+        padding: 20px;
+        width: 300px;
+        min-height: 200px;
+    }
+}
